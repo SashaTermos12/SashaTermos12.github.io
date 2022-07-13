@@ -1,0 +1,30 @@
+@import url("font-awesome.min.css");
+@font-face {
+    font-family: "Montserrat"; 
+    src: url("../fonts/Montserrat-Regular.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+}
+@font-face {
+    font-family: "Hack"; 
+    src: url("../fonts/Hack-Regular.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+}
+body{
+    background-color: rgb(245, 246, 246);
+    color: rgb(19, 18, 18);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    margin: 0;
+}
+.sprint{
+    margin: 10px auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+.card-title{
+    min-height: 70px;
+}

@@ -1,0 +1,63 @@
+https://github.com/BLINKING-IDIOT/Aliens_eye - Как найти человека в интернете и соц.сетях по никуs
+https://github.com/sepandhaghighi/art - Art - простой в использовании модуль, с помощью которого вы создадите логотип для своего терминального скрипта.
+https://github.com/iperov/DeepFaceLive - DeepFaceLive - Python утилита позволяет создавать дипфейки с возможностью подмены лица в режиме реального времени для потоковой передачи и видеозвонков.
+https://github.com/wasi-master/fastero - Fastero - инструмент для вывода бенчмарков программ. Красивый, цветной вывод, многострочный ввод с подсветкой синтаксиса, автодополнением и многое другое!
++++https://github.com/hamza07-w/raymond - Raymond - утилита для сбора информации о веб-сайте. Легкий и полезный инструмент для web пентеста.
+https://github.com/asmirnou/watsor - Watsor - обнаруживает объекты в видеопотоке(машины, здания, сооружения и т.п), используя подход, основанный на глубоком обучении. Предназначен в первую очередь для наблюдения, работает в режиме реального времени, анализируя самый последний кадр, чтобы обеспечить максимально быструю реакцию.
+https://github.com/spider863644/PhoneNumber-OSINT - PhoneNumber-OSINT - инструмент для сбора информации о телефонных номерах.
+https://github.com/tyiannak/pyAudioAnalysis - pyAudioAnalysis - библиотека Python, охватывающая широкий спектр задач анализа звука. Пригодится при анализе звуковых сообщений, аудио/видео файлов. 
+https://github.com/p1ngul1n0/blackbird - osint
+https://github.com/C0MPL3XDEV/E4GL30S1NT - E4GL30S1NT - простой в использовании OSINT инструмент для сбора информации.
+https://github.com/MarioVilas/googlesearch - GoogleSearch - библиотека для создания идеального скрипта автоматизации поиска в гугл.
+https://github.com/Ciphey/Ciphey - Ciphey - автоматизированный инструмент дешифрования/декодирования/взлома шифров
+https://github.com/narkopolo/fb_friend_list_scraper - Facebook Friend List Scraper - OSINT инструмент для сбора имен и никнеймов пользователей из больших списков друзей Facebook без ограничения скорости.
+https://github.com/ebankoff/Beast_Bomber - Beast Bomber - многофункциональный бомбер.
+https://github.com/dievus/geeMailUserFinder - geeMailUserFinder - простой инструмент для проверки валидности учетных записей Gmail.
+https://github.com/owerdogan/whoami-project - Whoami - инструмент обеспечивает повышенную конфиденциальность и анонимность для дистрибутивов Linux на основе Debian и Arch
+https://github.com/pyscript/pyscript - PyScript - модуль позволяющий интегрировать код Python прямо в HTML и создавать интерактивные веб-приложения.
+https://github.com/lmsecure/vk_visualizer - VK visualizer - инструмент для визуализации геоданных из фото профиля ВКонтакте.
+https://github.com/tasos-py/Search-Engines-Scraper - Search-Engines-Scraper - автоматизированный инструмент, который собирает результаты поиска в текстовые файлы. Может искать в Google, Bing, DuckDuckGo, AOL и других поисковых системах.
+https://github.com/chinoogawa/instaBrute - InstaBrute - эксплойт модуль для брутфорса Instagram.
+https://github.com/8C/SkypeSearch - https://github.com/8C/SkypeSearch
++++https://github.com/AzizKpln/Moriarty-Project - Moriarty-Project V3.0 - инструмент предоставляет информацию о введенном вами номере телефона.
++++https://github.com/TheSadError/NIVOS - NIVOS - написанный на Python инструмент глубокого сканирования. Позволяет тестировать и  взламывать Wi-Fi, видеть другие машины в вашей сети и получать по ним информацию, сканировать сайты, собирать информацию по телефону и много чего интересного.
+https://github.com/HowToFind-bot/YaSeeker - YaSeeker - OSINT инструмент позволяющий получать информацию о любом Yandex аккаунте используя email или username.
+https://github.com/rly0nheart/osinteye - OsintEye - OSINT инструмент для сбора информации о пользователях по имени. Собирает информацию с:
+https://github.com/matiash26/Steam-OSINT-TOOL - Steam-OSINT-TOOL - OSINT инструмент для Steam. Введите ссылку на профиль пользователя в Steam и получите:
+https://github.com/rsalmei/alive-progress - Alive-Progress - крутой модуль позволяющий оборачивать код в красивый progress bar в реальном времени и очень классной анимацией!
+https://github.com/Zalexanninev15/WebWordSearch - WebWordSearch - простой и весьма полезный Python скрипт позволяющий искать слова и символы на сайтах из указанного текстового файла.
+https://github.com/verigak/progress/ - Progress - модуль позволяющий кастомизировать и отображать различные типы прогресс-баров/индикаторов выполнения ваших задач.
+https://github.com/tomas-net/ip2geotools - ip2geotools - простой в использовании модуль позволяющий получать геолокацию, страну, регион, город, а также широту и долготу по IP из нескольких баз данных.
+https://github.com/snowballstem/snowball - showballstemmer - лёгкий модуль позволяющий определять основу слова на разных языках. Будет весьма полезен при машинном обучении.
+++https://github.com/MHProDev/MHDDoS - MHDDoS - проект позволяющий устраивать DDoS атаки различными способами.
+https://github.com/kvesteri/validators - validators - модуль позволяет использовать различные валидаторы, в том числе и проверку email.
+https://github.com/V3ntus/darvester - Darvester -  OSINT инструмент для сбора информации о пользователях Discord.
+https://github.com/Manisso/fsociety - Fsociety Hacking Tools Pack - смотрел сериал «MR. ROBOT»? Суть фреймворка в том, что он имеет набор всех утилит, которые использовались в сериале.
+https://github.com/zxllkada/Get-instagram-users-info---Any-instagram-account - утилита для поднятия собственной фермы ботов в Instagram.
+https://github.com/gunthercox/ChatterBot - ChatterBot - основанный на машинном обучении диалоговый движок, построенный на Python, позволяет генерировать ответы на основе коллекций известных разговоров. Независимый от языка дизайн ChatterBot позволяет обучить его говорить на любом языке.
+https://github.com/MicroPyramid/forex-python - Forex-Python - с помощью данного модуля вы можете получать по API актуальные курсы и конвертировать суммы как обычных так и крипто валют.
+https://github.com/jofpin/trape - Trape - OSINT утилита, которая позволяет отслеживать и выполнять атаки социальной инженерии в режиме реального времени. 
+https://github.com/martinvigo/email2phonenumber - email2phonenumber - инструмент OSINT, который позволяет вам получить номер телефона цели, просто имея его адрес электронной почты
+https://github.com/Nikait/ni_bomber - ni_bomber - sms бомбер. Проект написанный на Python. Смс приходят не со всех сайтов, но задумка интересная. Можно взять на заметку и немного подправить код.
+https://github.com/qeeqbox/social-analyzer - Social Analyzer — OSINT инструмент с API, интерфейсом командной строки и веб-приложением для анализа и поиска профиля человека в более чем 1000 социальных сетях и веб-сайтах. Включает в себя различные модули анализа и обнаружения, выбирать какие модули использовать можно прямо в процессе поиска.
+https://github.com/noob-hackers/ipdrone - Ipdrone — простой скрипт на Python, который можно использовать для поиска IP-адресов и получения местоположения конкретного IP-адреса.
+https://github.com/lk-geimfari/mimesis - Mimesis - генератор фейковых данных. Имена, email, адреса и телефоны. Есть настройка локации, позволяющая выбрать страну и данные будут сгенерированы в соответствии с выбором
+https://github.com/Greenwolf/social_mapper - Social Mapper - мощный OSINT инструмент с открытым исходным кодом, предназначенный для поиска профилей в таких социальных сетях как instagram, vkontakte, twitter, facebook и многих других. 
+https://github.com/rajatomar788/pywebcopy/ - PyWebCopy - бесплатный инструмент для копирования отдельных веб-страниц или же полного копирования сайта на жесткий диск.
+https://github.com/freqtrade/freqtrade - Freqtrade - бесплатный бот для торговли криптовалютой с открытым исходным кодом. Работает со множеством крупных бирж, в том числе Binance и поддерживает управление через Telegram. Реализовано построение графиков, управление капиталом, а также оптимизация стратегий с помощью машинного обучения.
+https://github.com/mkaz/termgraph - Termgraph - написанный на Python инструмент позволяющий красиво выводить данные в терминал.
++++https://github.com/chriskiehl/Gooey - Gooey - превратит вашу консольную программу в полноценное графическое приложение всего одной строкой кода.
+https://github.com/public-apis/public-apis - Public APIs - огромный список бесплатных API, незаменим при создании и тестировании программ.
+https://github.com/UnkL4b/GitMiner - GitMiner - мощный и достаточно популярный OSINT инструмент расширенного поиска и автоматизации на Github. Достаточно указать что искать, например логины или пароли и в каких файлах.
+https://github.com/pro100git/proxy_checker - Proxy Checker - инструмент для проверки прокси написанный на Python.
+https://github.com/psf/requests-html - Requests-HTML - максимально простая и интуитивно понятная библиотека для парсинга html.
+https://github.com/scrapy/scrapy - Scrapy - высокоуровневый фреймворк для сканирования веб-сайтов, также испольузется для  анализа данных, мониторинга и автоматического тестирования.
+https://github.com/emirozer/fake2db - Fake2db - библиотека позволяет создавать базы данных и заполнять их фейковыми данными. Незаменимая вещь для теста, отладки и разработки. Поддерживает работу с sqlite, mysql, postgresql, mongodb, redis, couchdb.
+https://github.com/b3-v3r/Hunner - Hunner - микро фреймворк для тестирования на проникновение. Сканирует на sql, xss, ddos, bruteforce ftp, ssh и д.р уязвимости.
+https://github.com/Python-World/Python_and_the_Web/tree/master/Scripts/Bots/Torrent-Search-Bot - Torrent-Search-Bot - простой телеграм бот для поиска торентов.
+https://github.com/thewhiteh4t/nexfil - NExfil - инструмент OSINT, написанный на python для поиска профилей по имени пользователя. Имя проверяется более чем на 350 веб-сайтах в течение нескольких секунд.
+https://github.com/feross/SpoofMAC - SpoofMAC - полезный и очень простой в использовании инструмент для спуфинга/подмены MAC-адреса.
+https://github.com/Datalux/Osintgram - Osintgram - инструмент OSINT в Instagram для сбора, анализа и проведения разведки пользователя по нику. Предлагает широкий спектр методов.
+https://github.com/codelucas/newspaper - Newspaper3k - мощный инструмент, который позволяет парсить статьи и связанные с ними метаданные в пару строк кода. Заголовки, авторы, главное изображение, текст и даже ключевые слова. Достаточно передать ссылку.
+
+
